@@ -1,2 +1,2 @@
 # TimetrackingTool
-An Excel Table to track time
+An Excel Table to track your work time
